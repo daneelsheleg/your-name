@@ -1,0 +1,21 @@
+.one{
+	justify-content: center;
+	text-align: center;
+	font-size: 20px;
+}
+.button{
+	border: none;
+	background: #ABCBE5;
+	color:#ffff;
+	cursor: pointer;
+	border-radius: 2%;
+		font-size: 20px;
+}
+.gg{
+	margin-right: 50px;
+}
+
+.button{
+	padding: 20px;
+
+}
